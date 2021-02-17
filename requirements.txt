@@ -1,0 +1,13 @@
+Flask==1.1.2
+Flask-Login==0.4.1
+Flask-Session==0.3.1
+Flask_SocketIO==4.0.0
+itsdangerous==1.1.0
+Jinja2==2.11.2
+MarkupSafe==1.1.1
+python-engineio==4.0.0
+python-socketio==5.0.4
+six==1.15.0
+Werkzeug==1.0.1
+requests==2.18.4
+requests-unixsocket==0.1.5
